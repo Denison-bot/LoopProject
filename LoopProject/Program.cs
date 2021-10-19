@@ -24,7 +24,7 @@ namespace LoopProject
                 BoundCheck();
                 QuitCheck();
             }
-            Console.ReadKey(true);
+            
         }            
 
         static void PlayerDraw(int x, int y)
